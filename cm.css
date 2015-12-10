@@ -1,0 +1,28 @@
+.cs{
+  height: 120px;
+  width: 220px;
+  background-color: white;
+  display: inline-flex;
+  margin: 12px 29px;
+  border-style: solid;
+    border-width: 3px;
+border: 2px solid;
+    border-radius: 2.7em;  
+  color: #00cccc;
+  
+  }
+.ms{
+  background-color: #00b2b3
+;
+  height: 160px;
+  
+  width : 99%;
+}
+h2{
+  color: #1f1f7a;
+  padding: 25px 25px 25px 15px;
+}
+img{
+  padding-top: 29px;
+  padding-left: 19px
+}
